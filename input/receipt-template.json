@@ -1,0 +1,30 @@
+{
+    "description": "Trip to Costco with the boys",
+    "date": "03/16/2021",
+    "items": [
+    {
+        "item": "kitchen_bags",
+        "cost": 15.49,
+        "adjustment": 0.00,
+        "contributors":["JA","AD","BB"]
+    },
+    {
+        "item": "popcorn",
+        "cost": 11.52,
+        "adjustment": 0.00,
+        "contributors":["JA","BB"]
+    },
+    {
+        "item": "eggs",
+        "cost": 3.54,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "beer",
+        "cost": 9.59,
+        "adjustment": 0.20,
+        "contributors":["AD"]
+    }]
+}
+
