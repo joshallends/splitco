@@ -1,0 +1,137 @@
+{
+    "description": "costco",
+    "timestamp": "03/17/2021",
+    "items": [
+    {
+        "item": "trash_bags",
+        "cost": 15.49,
+        "adjustment": 0.00,
+        "contributors":["JA","AD","BB"]
+    },
+    {
+        "item": "popcorn_box",
+        "cost": 9.99,
+        "adjustment": 0.00,
+        "contributors":["JA","BB"]
+    },
+    {
+        "item": "chicken_melts",
+        "cost": 8.29,
+        "adjustment": 0.00,
+        "contributors":["JA","AD","BB"]
+    },
+    {
+        "item": "yellow_curry",
+        "cost": 12.99,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "meatballs",
+        "cost": 13.89,
+        "adjustment": 0.00,
+        "contributors":["BB"]
+    },
+    {
+        "item": "wine_rioja",
+        "cost": 7.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "wine_lohr",
+        "cost": 12.25,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "whiskey",
+        "cost": 18.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "eggs",
+        "cost": 3.59,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "face_coverings",
+        "cost": 6.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "coconut_thai_chicken",
+        "cost": 12.99,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "chicken_fried_rice",
+        "cost": 12.59,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "tikka_masala",
+        "cost": 10.49,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "chicken_skewers",
+        "cost": 8.99,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "squirrel_beer",
+        "cost": 12.19,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "zero_beer",
+        "cost": 9.19,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "tenderloin",
+        "cost": 22.43,
+        "adjustment": -0.20,
+        "contributors":["JA","AD","BB"]
+    },
+    {
+        "item": "korean_bbq",
+        "cost": 19.89,
+        "adjustment": 0.00,
+        "contributors":["BB"]
+    },
+    {
+        "item": "captain_morgan",
+        "cost": 21.89,
+        "adjustment": 0.00,
+        "contributors":["JA","BB"]
+    },
+    {
+        "item": "vodka",
+        "cost": 18.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "coffee",
+        "cost": 29.99,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "tequila",
+        "cost": 22.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    }]
+}
