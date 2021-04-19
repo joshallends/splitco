@@ -1,0 +1,41 @@
+{
+    "description": "treehouse",
+    "timestamp": "04/17/2021",
+    "items": [
+    {
+        "item": "quintessential",
+        "cost": 112.95,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD"]
+    },
+    {
+        "item": "dream_team",
+        "cost": 95.20,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD"]
+    },
+    {
+        "item": "alter_ego",
+        "cost": 15.20,
+        "adjustment": 0.00,
+        "contributors":["GE"]
+    },
+    {
+        "item": "king_julius",
+        "cost": 20.20,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "jjjulius",
+        "cost": 36.40,
+        "adjustment": 0.00,
+        "contributors":["GE", "AD"]
+    },
+    {
+        "item": "stouts",
+        "cost": 22.20,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    }]
+}

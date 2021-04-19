@@ -1,0 +1,89 @@
+{
+    "description": "costco",
+    "timestamp": "04/03/2021",
+    "items": [
+    {
+        "item": "tooth_brushes",
+        "cost": 14.99,
+        "adjustment": -5.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "tooth_paste",
+        "cost": 14.99,
+        "adjustment": -5.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "risotto",
+        "cost": 11.99,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "chicken_fried_rice",
+        "cost": 12.59,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "meatballs",
+        "cost": 13.89,
+        "adjustment": 0.00,
+        "contributors":["BB"]
+    },
+    {
+        "item": "salmon",
+        "cost": 15.57,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "chicken_skewers",
+        "cost": 23.98,
+        "adjustment": 0.00,
+        "contributors":["JA","AD","BB"]
+    },
+    {
+        "item": "josh_wine",
+        "cost": 47.56,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "folie_wine",
+        "cost": 7.39,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "rioja_wine",
+        "cost": 7.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "napa_wine",
+        "cost": 23.99,
+        "adjustment": -12.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "fleur_wine",
+        "cost": 6.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "crest_wine",
+        "cost": 10.89,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "brbn_Wine",
+        "cost":9.49,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    }]
+}
