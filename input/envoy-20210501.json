@@ -1,0 +1,78 @@
+{
+    "description": "envoy",
+    "timestamp": "05/01/2021",
+    "items": [
+    {
+        "item": "caesar_chicken",
+        "cost": 27.00,
+        "adjustment": 0.00,
+        "contributors":["AD","AE","EK"]
+    },
+    {
+        "item": "caesar_salad",
+        "cost": 39.00,
+        "adjustment": 0.00,
+        "contributors":["AD","AE","EK"]
+    },
+    {
+        "item": "chorizo_flatbread",
+        "cost": 16.00,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "pork_belly",
+        "cost": 16.00,
+        "adjustment": 0.00,
+        "contributors":["BB"]
+    },
+    {
+        "item": "titos_shot",
+        "cost": 12.00,
+        "adjustment": 0.00,
+        "contributors":["AE"]
+    },
+    {
+        "item": "jameson_shot",
+        "cost": 33.00,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD", "EK"]
+    },
+    {
+        "item": "sangria",
+        "cost": 33.00,
+        "adjustment": 0.00,
+        "contributors":["AE"]
+    },
+    {
+        "item": "brians_barrel",
+        "cost": 34.00,
+        "adjustment": 0.00,
+        "contributors":["JA", "BB"]
+    },
+    {
+        "item": "hot_pat",
+        "cost": 17.00,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "mojito",
+        "cost": 51.00,
+        "adjustment": 0.00,
+        "contributors":["AD","AE","EK"]
+    },
+    {
+        "item": "jack_abby",
+        "cost": 8.00,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "tax_and_tip",
+        "cost": 81.09,
+        "adjustment": 0.00,
+        "contributors":["AD","AE","EK", "BB", "JA"]
+    }
+   ]
+}

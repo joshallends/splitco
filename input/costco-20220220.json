@@ -1,0 +1,125 @@
+{
+    "description": "costco",
+    "timestamp": "02/20/2022",
+    "items": [
+    {
+        "item": "paper_towels",
+        "cost": 17.99,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD", "BB"]
+    },
+    {
+        "item": "membership",
+        "cost": 60.00,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "water",
+        "cost": 5.79,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "chikcen_melt",
+        "cost": 10.89,
+        "adjustment": 0.00,
+        "contributors":["JA","AD", "BB"]
+    },
+    {
+        "item": "tequila",
+        "cost": 22.99,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD"]
+    },
+    {
+        "item": "vodka",
+        "cost": 18.99,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD"]
+    },
+    {
+        "item": "crest_wine",
+        "cost": 21.78,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "josh_wine",
+        "cost": 12.89,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "folie_wine",
+        "cost": 7.89,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "brbn_wine",
+        "cost": 9.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "lohr_wine",
+        "cost": 12.89,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "joelgott_wine",
+        "cost": 11.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "ramen",
+        "cost": 12.49,
+        "adjustment": -3.60,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "sausage_polenta",
+        "cost": 11.99,
+        "adjustment": 0.00,
+        "contributors":["AD", "JA"]
+    },
+    {
+        "item": "poop_wipes",
+        "cost": 14.99,
+        "adjustment": 0.00,
+        "contributors":["AD", "JA"]
+    },
+    {
+        "item": "tikka_masala",
+        "cost": 14.99,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "chicken_skewers",
+        "cost": 31.18,
+        "adjustment": 0.00,
+        "contributors":["JA", "BB"]
+    },
+    {
+        "item": "bitchin_sauce",
+        "cost": 8.99,
+        "adjustment": -2.30,
+        "contributors":["JA"]
+    },
+    {
+        "item": "k_cups",
+        "cost": 41.99,
+        "adjustment": -7.00,
+        "contributors":["JA", "AD"]
+    },
+    {
+        "item": "tax",
+        "cost": 2.06,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD"]
+    }]
+}

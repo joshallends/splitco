@@ -1,0 +1,107 @@
+{
+    "description": "maguon",
+    "timestamp": "05/24/2021",
+    "items": [
+    {
+        "item": "vodka_shots",
+        "cost": 40.00,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "bells_beer",
+        "cost": 7.75,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "dirty_mayor",
+        "cost": 31.00,
+        "adjustment": 0.00,
+        "contributors":["SE"]
+    },
+    {
+        "item": "radler_2",
+        "cost": 14.00,
+        "adjustment": 0.00,
+        "contributors":["EK"]
+    },
+    {
+        "item": "radler_1",
+        "cost": 7.00,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "wings_3",
+        "cost": 9.00,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD"]
+    },
+    {
+        "item": "wings_1",
+        "cost": 3.00,
+        "adjustment": 0.00,
+        "contributors":["SE"]
+    },
+    {
+        "item": "guac_burger",
+        "cost": 16.00,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "turkey_thing",
+        "cost": 14.00,
+        "adjustment": 0.00,
+        "contributors":["EK"]
+    },
+    {
+        "item": "chicken_tenders",
+        "cost": 24.00,
+        "adjustment": 0.00,
+        "contributors":["AD", "BB"]
+    },
+    {
+        "item": "french_fries",
+        "cost": 6.00,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "jameson",
+        "cost": 127.50,
+        "adjustment": 0.00,
+        "contributors":["AD","BB","EK","JA","SE"]
+    },
+    {
+        "item": "hefeweizen",
+        "cost": 7.75,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "sailor_jerry",
+        "cost": 15.50,
+        "adjustment": 0.00,
+        "contributors":["BB"]
+    },
+    {
+        "item": "fiddlehead_ipa",
+        "cost": 7.75,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "tax",
+        "cost": 23.57,
+        "adjustment": 0.00,
+        "contributors":["AD","BB","EK","JA","SE"]
+    },
+    {
+        "item": "tip",
+        "cost": 72.00,
+        "adjustment": 0.00,
+        "contributors":["AD","BB","EK","JA","SE"]
+    }]
+}

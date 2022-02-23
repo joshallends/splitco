@@ -1,0 +1,101 @@
+{
+    "description": "costco",
+    "timestamp": "05/06/2021",
+    "items": [
+    {
+        "item": "biscoff",
+        "cost": 6.99,
+        "adjustment": -2.20,
+        "contributors":["JA", "BB"]
+    },
+    {
+        "item": "cliff_bars",
+        "cost": 19.89,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "face_shield",
+        "cost": 7.87,
+        "adjustment": 0.00,
+        "contributors":["BB"]
+    },
+    {
+        "item": "meatballs",
+        "cost": 13.89,
+        "adjustment": 0.00,
+        "contributors":["BB"]
+    },
+    {
+        "item": "chicken_fried_rice",
+        "cost": 12.59,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "jogger",
+        "cost": 19.99,
+        "adjustment": 0.00,
+        "contributors":["BB"]
+    },
+    {
+        "item": "chicken_skewers",
+        "cost": 35.97,
+        "adjustment": 0.00,
+        "contributors":["JA", "BB"]
+    },
+    {
+        "item": "chicken_melt",
+        "cost": 10.79,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "tikka_masala",
+        "cost": 13.99,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "stuffed_peppers",
+        "cost": 15.27,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "coconut_chicken",
+        "cost": 12.99,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "beef_thing",
+        "cost": 19.78,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "tumeric",
+        "cost": 36.99,
+        "adjustment": -8.00,
+        "contributors":["BB"]
+    },
+    {
+        "item": "pringles",
+        "cost": 14.49,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "eggs",
+        "cost": 3.59,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "tax",
+        "cost": 2.31,
+        "adjustment": 0.00,
+        "contributors":["JA", "BB"]
+    }]
+}

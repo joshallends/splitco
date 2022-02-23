@@ -1,0 +1,137 @@
+{
+    "description": "costco",
+    "timestamp": "06/15/2021",
+    "items": [
+    {
+        "item": "cliff_bars",
+        "cost": 19.89,
+        "adjustment": 0.00,
+        "contributors":["JA","BB"]
+    },
+    {
+        "item": "chiken_skewers",
+        "cost": 25.18,
+        "adjustment": 0.00,
+        "contributors":["JA","BB","AD"]
+    },
+    {
+        "item": "meatball",
+        "cost": 14.99,
+        "adjustment": 0.00,
+        "contributors":["BB"]
+    },
+    {
+        "item": "chocolate",
+        "cost": 21.98,
+        "adjustment": 0.00,
+        "contributors":["JA","BB"]
+    },
+    {
+        "item": "coffee",
+        "cost": 34.99,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD"]
+    },
+    {
+        "item": "paper_towels",
+        "cost": 21.79,
+        "adjustment": 0.00,
+        "contributors":["JA","AD","BB"]
+    },
+    {
+        "item": "toilet_paper",
+        "cost": 22.99,
+        "adjustment": -5.00,
+        "contributors":["JA","BB"]
+    },
+    {
+        "item": "chicken_melt",
+        "cost": 10.79,
+        "adjustment": 0.00,
+        "contributors":["JA","AD","BB"]
+    },
+    {
+        "item": "thai_curry",
+        "cost": 13.99,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "yellow_curry",
+        "cost": 6.97,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "tequila",
+        "cost": 22.99,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "taco_salad",
+        "cost": 15.95,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "cabernet",
+        "cost": 11.89,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "folie_deux",
+        "cost": 7.39,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "crest_h3",
+        "cost": 10.89,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "fleur_saint",
+        "cost": 6.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "ks_columbia",
+        "cost": 8.89,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "ks_alexander",
+        "cost": 9.79,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "marq_rioja",
+        "cost": 14.99,
+        "adjustment": -6.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "squirrel_beer",
+        "cost": 11.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "pulp_daddy",
+        "cost": 27.98,
+        "adjustment": 0.00,
+        "contributors":["AD","JA"]
+    },
+    {
+        "item": "tax",
+        "cost": 3.61,
+        "adjustment": 0.00,
+        "contributors":["JA","BB","AD"]
+    }]
+}

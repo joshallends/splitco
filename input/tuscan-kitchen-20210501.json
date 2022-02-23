@@ -1,0 +1,48 @@
+{
+    "description": "tuscan_kitchen",
+    "timestamp": "05/01/2021",
+    "items": [
+    {
+        "item": "espresso_martini",
+        "cost": 136.00,
+        "adjustment": 0.00,
+        "contributors":["AD","AE","EK", "BB"]
+    },
+    {
+        "item": "heady_topper",
+        "cost": 18.00,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "arancini",
+        "cost": 15.00,
+        "adjustment": 0.00,
+        "contributors":["AD","AE","EK", "BB", "JA"]
+    },
+    {
+        "item": "ravioli",
+        "cost": 28.00,
+        "adjustment": 0.00,
+        "contributors":["AD","AE","EK", "BB", "JA"]
+    },
+    {
+        "item": "polpettoni",
+        "cost": 14.00,
+        "adjustment": 0.00,
+        "contributors":["AD","AE","EK", "BB", "JA"]
+    },
+    {
+        "item": "house_wine",
+        "cost": 128.00,
+        "adjustment": 0.00,
+        "contributors":["AD","AE","EK", "BB", "JA"]
+    },
+    {
+        "item": "tax_and_tip",
+        "cost": 96.73,
+        "adjustment": 0.00,
+        "contributors":["AD","AE","EK", "BB", "JA"]
+    }
+   ]
+}

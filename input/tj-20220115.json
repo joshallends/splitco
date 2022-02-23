@@ -1,0 +1,143 @@
+{
+    "description": "trader_joes",
+    "timestamp": "01/15/2021",
+    "items": [
+    {
+        "item": "sapporo",
+        "cost": 2.99,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "burrito_bowl",
+        "cost": 3.49,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "steak_pies",
+        "cost": 6.99,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD"]
+    },
+    {
+        "item": "butter_chicken",
+        "cost": 3.99,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "tikka",
+        "cost": 7.98,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD"]
+    },
+    {
+        "item": "chips",
+        "cost": 3.49,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "naan",
+        "cost": 3.69,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "dolmas",
+        "cost": 2.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "tuna",
+        "cost": 3.98,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "cowboy_caviar",
+        "cost": 2.79,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "nightshift",
+        "cost": 13.99,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "onion",
+        "cost": 1.19,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "lime",
+        "cost": 0.87,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "maine_beer",
+        "cost": 10.98,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "pot_pie",
+        "cost": 7.99,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "avocado",
+        "cost": 7.16,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "pepper_jalapeno_tuna",
+        "cost": 1.69,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "light_tuna",
+        "cost": 1.69,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "tomatoes",
+        "cost": 0.58,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "bananas",
+        "cost": 1.33,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "apple_strawberry",
+        "cost": 0.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "mango_slices",
+        "cost": 3.29,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "bottle_deposit",
+        "cost": 0.35,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    }]
+}

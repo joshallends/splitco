@@ -1,0 +1,119 @@
+{
+    "description": "costco",
+    "timestamp": "01/19/2022",
+    "items": [
+    {
+        "item": "toilet_paper",
+        "cost": 24.49,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD", "BB"]
+    },
+    {
+        "item": "eggs",
+        "cost": 3.59,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "trail_mix",
+        "cost": 12.99,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "chicken_melt",
+        "cost": 12.29,
+        "adjustment": 0.00,
+        "contributors":["JA","AD","BB"]
+    },
+    {
+        "item": "m_and_ms",
+        "cost": 13.99,
+        "adjustment": 0.00,
+        "contributors":["JA"]
+    },
+    {
+        "item": "noodle_bowl",
+        "cost": 16.59,
+        "adjustment": 0.00,
+        "contributors":["JA", "AD"]
+    },
+    {
+        "item": "chicken_skewers",
+        "cost": 15.59,
+        "adjustment": 0.00,
+        "contributors":["JA","BB"]
+    },
+    {
+        "item": "lohr_wine",
+        "cost": 12.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "josh_wine",
+        "cost": 25.78,
+        "adjustment": 0.00,
+        "contributors":["AD", "JA"]
+    },
+    {
+        "item": "uppercut_wine",
+        "cost": 10.99,
+        "adjustment": -2.20,
+        "contributors":["AD"]
+    },
+    {
+        "item": "red_blend_wine",
+        "cost": 10.99,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "brbn_wine",
+        "cost": 9.49,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "lime_chicken",
+        "cost": 13.99,
+        "adjustment": 0.00,
+        "contributors":["AD", "JA"]
+    },
+    {
+        "item": "k_cups",
+        "cost":34.99,
+        "adjustment": -6.00,
+        "contributors":["AD", "JA", "BB"]
+    },
+    {
+        "item": "coppola_wine",
+        "cost": 13.29,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "crest_wine",
+        "cost": 10.89,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "meatballs",
+        "cost": 14.49,
+        "adjustment": 0.00,
+        "contributors":["BB"]
+    },
+    {
+        "item": "greater_good",
+        "cost": 27.98,
+        "adjustment": 0.00,
+        "contributors":["AD", "JA"]
+    },
+    {
+        "item": "tax",
+        "cost": 1.53,
+        "adjustment": 0.00,
+        "contributors":["AD", "JA", "BB"]
+    }]
+}

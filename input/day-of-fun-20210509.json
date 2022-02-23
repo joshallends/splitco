@@ -1,0 +1,83 @@
+{
+    "description": "day_of_fun",
+    "timestamp": "05/09/2021",
+    "items": [
+    {
+        "item": "guiness",
+        "cost": 6.99,
+        "adjustment": 0.20,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "bass",
+        "cost": 8.99,
+        "adjustment": 0.30,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "tecate",
+        "cost": 10.99,
+        "adjustment": 0.30,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "titos",
+        "cost": 27.99,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "cappucino",
+        "cost": 4.16,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "bagel_cc",
+        "cost": 4.25,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "bagel_loaded",
+        "cost": 18.50,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "iced_coffee",
+        "cost": 3.50,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "tax_tip_forge",
+        "cost": 7.68,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "tax_tip_wegmans",
+        "cost": 0.53,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "alfredos",
+        "cost": 36.00,
+        "adjustment": 0.00,
+        "contributors":["JA","AD"]
+    },
+    {
+        "item": "floss",
+        "cost": 3.79,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    },
+    {
+        "item": "draino",
+        "cost": 4.69,
+        "adjustment": 0.00,
+        "contributors":["AD"]
+    }]
+}
